@@ -1,0 +1,2 @@
+# Firefly Quest
+Upload app.py, game.html and requirements.txt together to the same GitHub directory. Deploy app.py in Streamlit Community Cloud. Local: pip install -r requirements.txt then streamlit run app.py. You can also open game.html directly in a browser. Progress is session-only. The four missions are teaching analogies; sandbox uses a simplified synchronous FFA variant with normalized coordinates, two synthetic peaks and best-ever tracking. No external assets or Plotly needed.
